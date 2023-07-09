@@ -3,9 +3,9 @@
 <img src="https://github.com/nilayhangarge/Data-Analysis-with-Python/assets/88373687/ee52ce51-d0f2-40d2-b5ad-fd37cc810dbb" width="70">
 
 
-## **Table of Contents**
-- #### [Lab-1 Introduction](#lab-1-introduction)
-- #### [Lab-2 Data Wrangling](#lab-2-data-wrangling)
+## Table of Contents
+* [Lab-1 Introduction](#lab-1-introduction)
+* [Lab-2 Data Wrangling](#lab-2-data-wrangling)
 
 
 ## **Lab-1: Introduction**
